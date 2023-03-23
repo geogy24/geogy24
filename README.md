@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi!
+
+I am systems Engineer from Colombia with more than 10 years of experience in software development. Responsible, adaptable, with good management of interpersonal relationships and continuously acquiring new knowledge.
+
+During my years of experience I have worked on projects related with banking, accounting, electronic commerce, IP telephony and education, where I have appropriated skills such as assertive communication, teamwork and leadership.
+
+I have interest in DevOps, software architecture and development; I handle programming languages ​​such as PHP (with the Laravel framework), Javascript (with the Angular, ReactJS framework), C/C++, Java (with the Play framework), Ruby (with the Ruby on Rails framework), as well as databases. SQL/NoSQL data, TDD application, SCRUM and application containerization with Docker.
 
 <!--
 **geogy24/geogy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
